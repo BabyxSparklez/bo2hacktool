@@ -1,6 +1,6 @@
 # bo2hacktool
-Call Of Duty Black Ops 2 Hack Tool By BabyxSparklez
-[PC] [Steam]
+Call Of Duty Black Ops 2 Hack Tool
+[PC] [Steam] [External]
 
 Discord Download: https://discord.gg/XS9aCmj
 
