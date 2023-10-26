@@ -17,7 +17,7 @@ Offhost
 - End Match/Lobby
 - Chat Spammer
 
-  ![multiplayer_offhost](https://github.com/BabyxSparklez/bo2hacktool/assets/80248376/a846bb32-0a5a-4523-812c-226e527e46a9)
+![multiplayer_offhost](https://github.com/BabyxSparklez/bo2hacktool/assets/80248376/a846bb32-0a5a-4523-812c-226e527e46a9)
 
 Host
 - Rank Up Stats
